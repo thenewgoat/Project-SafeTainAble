@@ -8,8 +8,8 @@ A predictive analytics project designed to enhance safety and improve risk manag
 
 ### Documents
 
-- [Report](https://github.com/thenewgoat/safetainable/blob/main/SafeTainAble_Report.docx)
-- [Slides](https://github.com/thenewgoat/safetainable/blob/main/SafeTainAble_Slides.pptx)
+- [Report](https://github.com/thenewgoat/Project-SafeTainAble/blob/main/BC2406_S04_Grp1.docx)
+- [Slides](https://github.com/thenewgoat/Project-SafeTainAble/blob/main/BC2406_S04_Grp1%20Presentation%20Slides.pptx)
 
 ## Executive Summary
 
